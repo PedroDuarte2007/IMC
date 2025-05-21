@@ -1,16 +1,16 @@
-# myapp
+# IMC
 
-A new Flutter project.
+Projeto desenvolvido em Flutter para calcular e apresentar o IMC
 
-## Getting Started
+## Tecnologias Utilizadas
 
-This project is a starting point for a Flutter application.
+| Linguagens e Ferramentas  | Funcionalidade |
+| ------------- |:-------------:|
+| [Flutter]() | Linguagem Mobile    |
+| [Dart](https://dart.dev/) | Linguagem Mobile    |
+| [VsCode](https://code.visualstudio.com/) | IDE    |
+| [Firebase](https://studio.firebase.google.com/) | IDX    |
 
-A few resources to get you started if this is your first Flutter project:
+## Wireframes
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Wireframe Home](./assets/Captura%20de%20tela%202025-05-21%20153903.png)
