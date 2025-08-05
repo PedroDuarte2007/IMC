@@ -44,5 +44,5 @@ npm run reset-project
 
 ## Wireframes
 
-![01](./assets/images/Sprint01.png)
-![02](./assets/images/Sprint02.pn2)
+![01](/CalcIMC/assets/images/Sprint01.png)
+![02](/CalcIMC/assets/images/Sprint02.png)
